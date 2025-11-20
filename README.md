@@ -67,3 +67,5 @@ I can design, develop, and train models within the same workflow.
   <img width="460 " src="https://nirzak-streak-stats.vercel.app/?user=Happiestsad&theme=dark&hide_border=false" />
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happiestsad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+
+<!--(For adding icons in skills ) https://github.com/tandpfun/skill-icons -->
