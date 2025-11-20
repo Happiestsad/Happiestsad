@@ -24,20 +24,41 @@ I can design, develop, and train models within the same workflow.
 ---
 
 # 💻 Tech Stack:
-### 🎨 Frontend  
-![Frontend](https://skillicons.dev/icons?i=html,css,js)
+### 🎨 Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  </a>
+</p>
 
 ### 🧩 Backend  
-![Backend](https://skillicons.dev/icons?i=python,java,c)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c" />
+  </a>
+</p>
+
 
 ### 🗄️ Databases  
-![Database](https://skillicons.dev/icons?i=mysql,mongodb)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  </a>
+</p>
 
 ### 🎨 Design & Creative Tools  
-![Design](https://skillicons.dev/icons?i=ps,ai,pr,ae)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae" />
+  </a>
+</p>
 
 ### 📄 Others  
-![Others](https://skillicons.dev/icons?i=markdown)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=markdown" />
+  </a>
+</p>
 
 
 # 📊 GitHub Stats:
