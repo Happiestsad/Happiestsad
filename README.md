@@ -17,10 +17,13 @@ UI/UX, graphic design, posters, banners, and web development.
 ### ⚡ Fun fact  
 I can design, develop, and train models within the same workflow.
 
-
 ## 🌐 Socials:
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:harihshramm114@gmail.com)
 ---
 
 # 💻 Tech Stack:
