@@ -71,4 +71,10 @@ I can design, develop, and train models within the same workflow.
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happiestsad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happiestsad/Happiestsad/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Happiestsad/Happiestsad/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Happiestsad/Happiestsad/output/pacman-contribution-graph.svg">
+</picture>
+
 <!--(For adding icons in skills ) https://github.com/tandpfun/skill-icons -->
