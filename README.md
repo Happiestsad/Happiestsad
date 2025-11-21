@@ -22,6 +22,9 @@ I can design, develop, and train models within the same workflow.
   <a href="mailto:your-email@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <a href="https://www.instagram.com/rammharihsh/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
 ---
