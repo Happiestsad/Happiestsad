@@ -73,10 +73,15 @@ I can design, develop, and train models within the same workflow.
 
 ## 🟡 Pac-Man Contribution Graph
 
+## 🟡 Pac-Man contribution graph
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happiestsad/Happiestsad/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Happiestsad/Happiestsad/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Happiestsad/Happiestsad/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happiestsad/Happiestsad/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Happiestsad/Happiestsad/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Happiestsad/Happiestsad/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
+
 <!--(For adding icons in skills ) https://github.com/tandpfun/skill-icons -->
+<!--(Snake Contribution ) https://github.com/Platane/snk -->
+<!--(Pacman Contribution ) https://github.com/ma-shamshiri/Pacman-Game/blob/master/README.md -->
