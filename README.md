@@ -68,11 +68,16 @@ I can design, develop, and train models within the same workflow.
 
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img width="300" src="https://github-readme-stats.vercel.app/api?username=Happiestsad&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img width="300 " src="https://nirzak-streak-stats.vercel.app/?user=Happiestsad&theme=dark&hide_border=false" />
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happiestsad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Happiestsad&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="max-width: 100%; height: auto;" />
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Happiestsad&theme=dark&hide_border=false" style="max-width: 100%; height: auto;" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happiestsad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="max-width: 100%; height: auto;" />
+
+</div>
+
 
 ## 🟡 Contribution graph
 
