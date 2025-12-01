@@ -28,6 +28,9 @@ I can design, develop, and train models within the same workflow.
 </p>
 
 ---
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+
+---
 
 # 💻 Tech Stack:
 ### 🎨 Frontend
